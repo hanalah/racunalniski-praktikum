@@ -25,8 +25,8 @@ h1 {
 
 h2 {
     margin-top: 2em;
-    border-top: 1px, #AAAAAA, solid;
-    padding-top: 0,5em;
+    border-top: 1px #AAAAAA solid;
+    padding-top: 0.5em;
 }
 
 #uvod {
