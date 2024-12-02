@@ -4,5 +4,5 @@
 \beamer@sectionintoc {3}{Paketa \texttt {amsmath} in \texttt {amsfonts}}{13}{0}{3}
 \beamer@sectionintoc {4}{Matematika, 1. del}{21}{0}{4}
 \beamer@sectionintoc {5}{Stolpci in slike}{25}{0}{5}
-\beamer@sectionintoc {6}{Paket \texttt {beamer} in tabele}{26}{0}{6}
-\beamer@sectionintoc {7}{Matematika, 2. del}{27}{0}{7}
+\beamer@sectionintoc {6}{Paket \texttt {beamer} in tabele}{41}{0}{6}
+\beamer@sectionintoc {7}{Matematika, 2. del}{51}{0}{7}
